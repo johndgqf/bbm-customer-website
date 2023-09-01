@@ -13,7 +13,7 @@ import GalleryTab from "@/components/unit-gallery/gallery-tab";
 
 const unitRentals = {
   name: "99 Big Break Road, Oakley, CA 94561",
-  price: "$2,500",
+  price: "$2,500 - Occupied",
   description:
     "Spacious single level home on the water is available for rent. Located at the heart of Big Break Marina, the unit comes with a spacious living room and kitchen attached, features granite countertops and island. Large sliding door leads to the open water. Laundry area with washer and dryer hook up. Community amenities include launch ramp and picnic areas. Finished yard space and garden. New window coverings. Covered patio",
   applyUrl: "https://turbo.rent/s/1262094p",
