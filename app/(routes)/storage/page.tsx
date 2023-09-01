@@ -25,7 +25,7 @@ const Storages = () => {
       name: "Dry Storage",
       description: "Pricing is based on monthly rate",
       prices: [
-        "Up to 29 fet in length: $95",
+        "Up to 29 ft in length: $95",
         "Above 30 ft: $200",
         "If you have a slip you will you get $50 discount to store your trailer*",
       ],

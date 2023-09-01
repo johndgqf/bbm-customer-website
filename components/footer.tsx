@@ -25,7 +25,7 @@ const Footer = () => {
             >
               {" "}
               <span>
-                <Facebook size={24} />
+                <Facebook size={40} />
               </span>
             </a>
             <a
@@ -34,7 +34,7 @@ const Footer = () => {
               rel="noopener noreferrer"
             >
               <span>
-                <Instagram size={24} />
+                <Instagram size={40} />
               </span>
             </a>
             <a
@@ -44,8 +44,8 @@ const Footer = () => {
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
+                width="40"
+                height="40"
                 fill=""
                 className="bi bi-yelp"
                 viewBox="0 0 16 16"

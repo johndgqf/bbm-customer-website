@@ -9,7 +9,8 @@ const LaunchPage = () => {
       name: "Step 1",
       title: "Pay at the parking box",
       instructions: [
-        "24/7 Access",
+        "Member Access: 24/7",
+        "Public Access: 6am - 9pm",
         "$10 per launch",
         "Display the receipt on your dashboard",
       ],
