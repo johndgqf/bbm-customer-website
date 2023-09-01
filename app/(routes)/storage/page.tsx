@@ -10,13 +10,13 @@ const Storages = () => {
       id: "b922a583-e435-44e4-a01d-b326cca488ed",
       title: "Marina Dry Storage Map",
       imageUrl:
-        "https://res.cloudinary.com/dgih5kfqr/image/upload/v1692764083/e9xctwbzdoptitcqls4i.jpg",
+        "https://res.cloudinary.com/dwsgfkigi/image/upload/v1693606165/hxrb6o2qsahjjh27knht.jpg",
     },
     {
       id: "78230aae-6678-4e25-bf73-467480490ec9",
       title: "Marina Slip Map ",
       imageUrl:
-        "https://res.cloudinary.com/dgih5kfqr/image/upload/v1692763937/ygl8tzhhw7yxssxxuarb.jpg",
+        "https://res.cloudinary.com/dwsgfkigi/image/upload/v1693606139/idnjmqa8rshmcsmdruyx.jpg",
     },
   ];
 
