@@ -14,7 +14,7 @@ const HomePage = async () => {
     const products = await getProducts({ isFeatured: true})
     const maps = await getMaps("")
     //Get billboard id here
-    const billboard = await getBillboard("daea1c64-e442-461f-bdd0-87b8e6049c50");
+    const billboard = await getBillboard("38ad4825-c91e-414b-9197-380a3410bac7");
     const features = await getHomepageFeatures("")
 
     return (
