@@ -88,7 +88,7 @@ const EventPage = () => {
             are an angler looking to reel in the big one or planning a memorable
             social occasion, let Big Break Marina be your choice for an
             extraordinary event experience. Dive into the adventure, and book
-            your event with us today!
+            your event with us today by simply clicking on the chat icon located at the bottom right corner or calling us at 925 - 679 0900.
           </p>
         </div>
       </div>

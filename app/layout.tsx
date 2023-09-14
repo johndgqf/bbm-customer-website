@@ -53,7 +53,7 @@ export default function RootLayout({
           defer
           src="//js.hs-scripts.com/43689572.js"
         ></script>
-        {/* <!-- End of HubSpot Embed Code --> */}
+        {/* <!-- End of HubSpot Embed Code --> */}  
       </body>
     </html>
   );
