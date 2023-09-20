@@ -39,6 +39,7 @@ const Storages = () => {
         "24 ft to 26 ft in length: $150.00",
         "27 ft to 29 ft in length: $165.00",
         "30 ft to 34 ft in length: $180.00",
+        "Covered slip can accommodate boat up to 8.5 ft / 11 ft (low tide / high tide) in height and 3.5 ft / 5 ft (low tide / high tide) in draft.",
       ],
     },
   ];
@@ -91,6 +92,18 @@ const Storages = () => {
               </div>
             ))}
           </dl>
+          <h3 className="text-md font-bold tracking-tight text-gray-900 sm:text-3xl lg:pt-3">
+            Boat Accommodation Policy:
+          </h3>
+          <p className="mt-4 text-lg text-gray-900">
+            <ul className="list-disc space-y-2 pl-4 text-sm">
+              <li className="text-gray-900 text-lg">All measurements are LOA</li>
+              <li className="text-gray-900 text-lg">Boat in covered piers cannot exceed 29' LOA and 11' in height from waterline</li>
+              <li className="text-gray-900 text-lg">We can accommodate most boats up to 36' in length</li>
+              <li className="text-gray-900 text-lg">Boats greater than 30' LOA must be placed at D pier (uncovered)</li>
+              <li className="text-gray-900 text-lg">Boats greater than 36' LOA must draft no more than 3'6''</li>
+            </ul>
+          </p>
         </div>
         <div className="grid grid-cols-2 grid-rows-1 gap-4 sm:gap-6 lg:gap-8">
           <Image
