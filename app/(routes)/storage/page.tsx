@@ -98,10 +98,10 @@ const Storages = () => {
           <p className="mt-4 text-lg text-gray-900">
             <ul className="list-disc space-y-2 pl-4 text-sm">
               <li className="text-gray-900 text-lg">All measurements are LOA</li>
-              <li className="text-gray-900 text-lg">Boat in covered piers cannot exceed 29' LOA and 11' in height from waterline</li>
-              <li className="text-gray-900 text-lg">We can accommodate most boats up to 36' in length</li>
-              <li className="text-gray-900 text-lg">Boats greater than 30' LOA must be placed at D pier (uncovered)</li>
-              <li className="text-gray-900 text-lg">Boats greater than 36' LOA must draft no more than 3'6''</li>
+              <li className="text-gray-900 text-lg">Boat in covered piers cannot exceed 29ft LOA and 11ft in height from waterline</li>
+              <li className="text-gray-900 text-lg">We can accommodate most boats up to 36ft in length</li>
+              <li className="text-gray-900 text-lg">Boats greater than 30ft LOA must be placed at D pier (uncovered)</li>
+              <li className="text-gray-900 text-lg">Boats greater than 36ft LOA must draft no more than 3.5ft</li>
             </ul>
           </p>
         </div>
