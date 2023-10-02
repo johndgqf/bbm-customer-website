@@ -9,7 +9,7 @@ const posts = [
     href: "#",
     thumbnail: "/images/liensale.jpg",
     description:
-      "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+      "",
     date: "Jun 07, 2023",
     datetime: "2023-06-07",
     category: { title: "Liensale", href: "#" },
@@ -27,7 +27,7 @@ const posts = [
     href: "#",
     thumbnail: "/images/wild-west-bass-trail.png",
     description:
-      "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+     "",
     date: "May 18, 2023",
     datetime: "2023-05-18",
     category: { title: "Sporting", href: "#" },
@@ -45,7 +45,7 @@ const posts = [
     href: "#",
     thumbnail: "/images/Flw_logo_edited.png",
     description:
-      "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+      "",
     date: "Apr 20, 2022",
     datetime: "2022-04-20",
     category: { title: "Sporting", href: "#" },
